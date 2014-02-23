@@ -5,7 +5,7 @@ use warnings;
 package Task::MasteringPerl;
 
 our $AUTHORITY = 'cpan:BDFOY';
-our $VERSION   = '1.001';
+our $VERSION   = '1.002';
 
 1;
 
@@ -207,12 +207,6 @@ Some of them might not install everywhere.
 =item * JSON::Syck
 
 =item * List::Util
-
-=item * Local::DocBook
-
-=item * Local::Error
-
-=item * Log4perl
 
 =item * Log::Log4perl
 
